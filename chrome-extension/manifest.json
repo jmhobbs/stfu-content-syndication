@@ -7,6 +7,7 @@
     "webRequest",
     "webRequestBlocking",
     "*://*.outbrain.com/*",
-    "*://*.zergnet.com/*"
+    "*://*.zergnet.com/*",
+    "*://*.taboola.com/*"
     ]
 }

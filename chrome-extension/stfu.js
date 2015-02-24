@@ -1,6 +1,7 @@
 var urls = [
   "*://*.outbrain.com/*",
   "*://*.zergnet.com/*",
+  "*://*.taboola.com/*"
 ];
 
 var STFUArticleLinks = function (req) {
