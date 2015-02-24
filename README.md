@@ -6,12 +6,13 @@ This _should_ make them go away.
 
   * OutBrain
   * Zergnet
+  * Taboola
 
 If you find a network, send me a link and I'll add a block if I can.
 
 # Installing
 
-  * Download from here: [http://cl.ly/1Q311p1t2O3i](http://cl.ly/1Q311p1t2O3i)
+  * Download from the releases page: [https://github.com/jmhobbs/stfu-content-syndication/releases](https://github.com/jmhobbs/stfu-content-syndication/releases)
   * Go to [chrome://extensions/](chrome://extensions/)
   * Drag onto view and install
 
